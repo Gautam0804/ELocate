@@ -211,7 +211,7 @@ const Footer = () => {
                 href="mailto:contact@elocate.com"
                 className="contact-link"
               >
-                contact@elocate.com{" "}
+                contact@USSR.com{" "}
               </Link>
             </li>
             <li className="footer-item">
